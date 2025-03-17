@@ -17,7 +17,5 @@ Proyek ini merupakan bagian dari tugas mata kuliah Machine Learning yang bertuju
 6. Perbandingan Performa Sebelum dan Sesudah Tuning. Hasil evaluasi model sebelum dan sesudah tuning dibandingkan untuk menilai efektivitas optimasi yang telah dilakukan dalam meningkatkan performa model.
 
 ### Hasil dan Evaluasi
-
-- Model terbaik setelah tuning mencapai XX% akurasi dengan peningkatan dari XX% sebelum tuning.
-
-- AUC-ROC meningkat dari XX menjadi XX setelah optimasi hyperparameter.
+- Model terbaik setelah tuning mencapai **59%** akurasi dengan peningkatan dari **53%** sebelum tuning.  
+- Peningkatan recall kelas **1** dari **63%** menjadi **92%** menunjukkan bahwa model lebih baik dalam mendeteksi sampel positif setelah optimasi hyperparameter.
